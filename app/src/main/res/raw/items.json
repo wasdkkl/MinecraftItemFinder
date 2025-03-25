@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fletching Table",
+        "materials": {
+            "Flint": 2,
+            "Plank": 4
+        },
+        "image": "fletching_table.png"
+    },
+    {
+        "name": "Crafting Table",
+        "materials": {
+            "Plank": 4
+        },
+        "image": "crafting_table.png"
+    }
+]
